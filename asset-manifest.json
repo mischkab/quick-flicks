@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quick-flicks/static/css/main.03f3ba54.css",
+    "main.js": "/quick-flicks/static/js/main.40608664.js",
+    "index.html": "/quick-flicks/index.html",
+    "main.03f3ba54.css.map": "/quick-flicks/static/css/main.03f3ba54.css.map",
+    "main.40608664.js.map": "/quick-flicks/static/js/main.40608664.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f3ba54.css",
+    "static/js/main.40608664.js"
+  ]
+}
